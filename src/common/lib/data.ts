@@ -96,7 +96,7 @@ export const projectsData = [
       'Tailwind',
     ],
     imageUrl: portfolioImg,
-    link: 'https://github.com/bbyc4kes/portfolio',
+    link: 'https://github.com/Utkarshdev12/nextjs-portfolio',
   }
 ] as const;
 
